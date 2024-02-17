@@ -6,8 +6,8 @@ const onClick = (e) => {
     popover.hide();
     return;
   }
-  popover.setContent(" Произошло нажатие на красную кнопку!");
-  popover.render(e.target, "Внимание!");
+  popover.setContent("And here`s some amazing content. It`s very enganging. Right?");
+  popover.render(e.target, "Popower title");
 };
 
 const btn = document.querySelector(".btn");
