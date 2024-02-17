@@ -12,8 +12,7 @@
     "preshow:coverage": "npm run coverage",
     "show:coverage": "live-server coverage/lcov-report",
     "preshow:dist": "npm run build",
-    "show:dist": "live-server dist",
-    "e2e": "jest --testPathPattern=./e2e/ --runInBand"
+    "show:dist": "live-server dist"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.0",
