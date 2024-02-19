@@ -1,5 +1,3 @@
-const fs = require('fs');
-
 import "./css/style.css";
 
 import "./js/app";
