@@ -1,3 +1,5 @@
+const fs = require('fs').promises;
+
 import "./css/style.css";
 
 import "./js/app";
