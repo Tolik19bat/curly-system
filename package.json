@@ -38,10 +38,7 @@
     "webpack-dev-server": "^4.15.1",
     "webpack-merge": "^5.10.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tolik19bat/curly-system.git"
-  },
+  "repository": "git+https://github.com/Tolik19bat/curly-system.git",
   "bugs": {
     "url": "https://github.com/Tolik19bat/curly-system/issues"
   },
