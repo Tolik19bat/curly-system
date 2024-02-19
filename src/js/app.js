@@ -6,7 +6,9 @@ const onClick = (e) => {
     popover.hide();
     return;
   }
-  popover.setContent("And here`s some amazing content. It`s very enganging. Right?");
+  popover.setContent(
+    "And here`s some amazing content. It`s very enganging. Right?",
+  );
   popover.render(e.target, "Popower title");
 };
 

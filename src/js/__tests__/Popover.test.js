@@ -21,7 +21,9 @@ test("testing Popover widget", () => {
 
   const element = document.querySelector(".calling");
   const popover = new Popover();
-  popover.setContent("And here`s some amazing content. It`s very enganging. Right?");
+  popover.setContent(
+    "And here`s some amazing content. It`s very enganging. Right?",
+  );
   popover.render(element, "Popower title");
   const result = document.querySelector(".popover").className;
   expect(result).toBe("popover");
