@@ -1,1 +1,1 @@
-# curly-system
+# curly-system [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://tolik19bat.github.io/curly-system/) [![Build status](https://ci.appveyor.com/api/projects/status/mulnr17ej57dqw21?svg=true)](https://ci.appveyor.com/project/Tolik19bat/curly-system)
